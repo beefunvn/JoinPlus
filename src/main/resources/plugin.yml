@@ -1,0 +1,5 @@
+name: JoinPlus
+version: '${project.version}'
+main: dev.tranducminh.joinplus.JoinPlus
+api-version: '1.20'
+folia-supported: true

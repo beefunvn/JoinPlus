@@ -1,0 +1,6 @@
+JoinMessage:
+  Enabled: true
+  Message: "&e[&a+&e] %player_name%"
+QuitMessage:
+  Enabled: true
+  Message: "&e[&4-&e] %player_name%"
